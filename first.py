@@ -32,3 +32,4 @@ for  i in range(x) :
     #a.index(x) vi tri cua x trong a
     #a.reverse () lat nguoc 1 list 
     #a.sort() sap xep trong a
+hehe
